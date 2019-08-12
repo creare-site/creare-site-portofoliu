@@ -9,16 +9,16 @@ Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 <br />
 
 ## Informatii produs
----
- - Site de prezentare - Portofoliu
- - Live [DEMO](https://creare-site-portofoliu.websitemarket.ro/)
+
+- Site de prezentare - Portofoliu
+- Live [DEMO](https://creare-site-portofoliu.websitemarket.ro/)
  
 <br />
 
 ## Licenta
 
- - Acest produs este protejat de drepturi de autor
- - Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
+- Acest produs este protejat de drepturi de autor
+- Pentru cumpararea licentei de utilizare accesati [WebsiteMarket.ro](https://websitemarket.ro) 
 
 <br />
 
